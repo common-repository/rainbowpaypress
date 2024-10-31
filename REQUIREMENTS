@@ -1,0 +1,16 @@
+RainbowPayPress requires:
+
+
+    Client-side environment:
+
+     * Generic web browser with HTML5 support.
+     * JavaScript enabled in the web browser.
+
+
+    Server-side environment:
+
+     * PHP version >= 5.4
+     * PHP cURL support enabled (Install module 'php-curl' on Debian / Ubuntu)
+     * PHP multibyte string support enabled (Install module 'mb-string' on Debian / Ubuntu)
+     * Proper Mail Transfer Agent (MTA) configuration for notification emails.
+     * WordPress version >= 3.8.3
